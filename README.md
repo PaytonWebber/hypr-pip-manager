@@ -9,10 +9,6 @@
 - **Custom Positioning:** Enables users to specify exact screen coordinates for PiP windows, ensuring consistent and optimal placement.
 - **Real-time Monitoring:** Listens for window events to manage PiP windows dynamically.
 - **Easy Integration:** Works seamlessly with Hyprland.
-- 
-## 🎥 Demo
-
-https://github.com/user-attachments/assets/23889d8e-e663-4942-ad5b-e693de1dc9d3
 
 ## 🚀 Installation
 
