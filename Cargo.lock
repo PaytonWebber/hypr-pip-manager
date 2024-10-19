@@ -112,7 +112,7 @@ dependencies = [
 [[package]]
 name = "hyprland"
 version = "0.4.0-alpha.3"
-source = "git+https://github.com/PaytonWebber/hyprland-rs?branch=Fix/windowrulev2#7bbcd08360dce6977b0bfee708339f0250ccae68"
+source = "git+https://github.com/PaytonWebber/hyprland-rs?branch=Fix/windowrulev2#321d11852e29611e68959e9f404098533ec1ab1e"
 dependencies = [
  "ahash",
  "derive_more",
@@ -130,7 +130,7 @@ dependencies = [
 [[package]]
 name = "hyprland-macros"
 version = "0.4.0-alpha.3"
-source = "git+https://github.com/PaytonWebber/hyprland-rs?branch=Fix/windowrulev2#7bbcd08360dce6977b0bfee708339f0250ccae68"
+source = "git+https://github.com/PaytonWebber/hyprland-rs?branch=Fix/windowrulev2#321d11852e29611e68959e9f404098533ec1ab1e"
 dependencies = [
  "quote",
  "syn",
